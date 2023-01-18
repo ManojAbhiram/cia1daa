@@ -1,0 +1,3 @@
+1.)Prim's algorithm doesn't work for directed graphs but works for negative weights.
+2.)Kruskal's algorithm doesn't work for directed graphs but works for negative weights.
+3.)Dijkstra's algorithm work for directed graphs but doesn't works for negative weights
